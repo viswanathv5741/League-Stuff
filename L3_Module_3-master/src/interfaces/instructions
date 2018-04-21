@@ -1,0 +1,4 @@
+The abstract class SpecialString has been made for you. Notice how it implements the TextFunkifier interface. 
+You must first create that interface with an abstract method called funkifyText. This method will take in a 
+String and return a string. Then create the BackwardsString class and MixedCapsString class. Override the 
+funkifyText method in both classes to make the tests pass on the TestInterfaces class.
